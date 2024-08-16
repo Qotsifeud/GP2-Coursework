@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  MainGame.cpp
+C:\Users\jay14\Desktop\Lab8Solution\Lab8Solution\Lab1\MainGame.cpp(120,34): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+C:\Users\jay14\Desktop\Lab8Solution\Lab8Solution\Lab1\MainGame.cpp(120,34): warning C4244:         with
+C:\Users\jay14\Desktop\Lab8Solution\Lab8Solution\Lab1\MainGame.cpp(120,34): warning C4244:         [
+C:\Users\jay14\Desktop\Lab8Solution\Lab8Solution\Lab1\MainGame.cpp(120,34): warning C4244:             T=float
+C:\Users\jay14\Desktop\Lab8Solution\Lab8Solution\Lab1\MainGame.cpp(120,34): warning C4244:         ]
+  Lab1.vcxproj -> C:\Users\jay14\Desktop\Lab8Solution\Lab8Solution\Debug\Lab1.exe
